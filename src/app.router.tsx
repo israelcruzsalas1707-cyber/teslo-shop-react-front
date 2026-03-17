@@ -1,6 +1,5 @@
 
 import {
-    createBrowserRouter,
     createHashRouter,
     Navigate,
 } from "react-router";
